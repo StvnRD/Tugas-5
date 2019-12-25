@@ -1,7 +1,7 @@
 # Tugas-5
 
 =====================================
-===========Program Tambah Data===========
+=========== Program Tambah Data ===========
 ====================
 
 - Program sederhana ini bisa digunakan untuk menambah data, mengubah data, dan mencari nama data.
@@ -11,7 +11,7 @@
 
 
 =====================================
-===============Flowchart===============
+=============== Flowchart ===============
 ====================
 
 ![Tugas 5 FC](https://user-images.githubusercontent.com/56438848/71431780-e300f800-2706-11ea-88d2-184097161d73.PNG)
